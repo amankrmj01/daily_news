@@ -48,8 +48,7 @@ with clean architecture, smooth animations, and a focus on performance and user 
 
 ## 📸 Screenshots
 
-<img src="screenshots/home.png" alt="Home" height="500" />
-<img src="screenshots/sports.png" alt="SPORTS" height="500" />  
+<img src="screenshots/home.png" alt="Home" height="500" /> <img src="screenshots/sports.png" alt="SPORTS" height="500" />  
 
   
 ---
